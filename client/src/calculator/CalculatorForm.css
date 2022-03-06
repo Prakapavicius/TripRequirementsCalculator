@@ -1,0 +1,9 @@
+.container {
+  padding: 10px 20px;
+  border-bottom: 2px solid gray;
+  margin-bottom: 10px;
+}
+
+.accordion {
+  width: 100%;
+}
